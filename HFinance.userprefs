@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{D9437A62-4F07-41F3-B082-1350BF3FDDB3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HFinance/Views/NewItemPage.xaml">
+    <Files>
+      <File FileName="HFinance/ViewModels/ItemsViewModel.cs" Line="19" Column="13" />
+      <File FileName="HFinance/App.xaml.cs" Line="54" Column="39" />
+      <File FileName="HFinance/ViewModels/ItemDetailViewModel.cs" Line="1" Column="1" />
+      <File FileName="HFinance/ViewModels/LoginViewModel.cs" Line="1" Column="1" />
+      <File FileName="HFinance/Views/ItemsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="HFinance/Services/IDataStore.cs" Line="1" Column="1" />
+      <File FileName="HFinance/Services/CloudDataStore.cs" Line="1" Column="1" />
+      <File FileName="HFinance/Services/MockDataStore.cs" Line="23" Column="117" />
+      <File FileName="HFinance/Views/ItemsPage.xaml" Line="35" Column="1" />
+      <File FileName="HFinance/Views/ItemDetailPage.xaml" Line="6" Column="9" />
+      <File FileName="HFinance/Views/NewItemPage.xaml" Line="3" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HFinance.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E54BEAC1-742C-451B-B526-C8A36BE61534" />
+  <MultiItemStartupConfigurations />
+</Properties>
